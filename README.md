@@ -1,4 +1,4 @@
-### CPSC 526 - Assignment 2 - Port Forwarding and Logging Proxy Server
+### netsec Port Forwarding and Logging Proxy Server
 
 ##Authors:
 
